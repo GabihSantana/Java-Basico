@@ -34,7 +34,7 @@ public class ContaTerminal {
         int numero = leituraDados.nextInt();
 
         //irá ler o número da agência do cliente via stdin
-        System.out.println("Insira a agência: ");
+        System.out.println("Insira o número agência: ");
         String agencia = leituraDados.next();
 
         //irá ler o primeiro do cliente via stdin
