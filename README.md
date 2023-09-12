@@ -1,2 +1,2 @@
 # Java-Basico
-Repositório para exercitar e praticar Java Básico
+Repositório destinado às atividade, aprendizados e práticas da linguagem Java :)
